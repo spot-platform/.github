@@ -31,23 +31,21 @@
 
 ## Agents
 
-[🏗️ infra-architect](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/infra-architect.md) — Docker Compose + FastAPI + Celery 뼈대 세우는 사람
-[🗄️ schema-designer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/schema-designer.md) — 테이블 9개의 DDL·모델·마이그레이션 장인
-[🔍 collector-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/collector-engineer.md) — 카카오 API를 때려서 장소 데이터를 긁어오는 사람
-[⚙️ processor-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/processor-engineer.md) — 정규화부터 페르소나 가중치까지 데이터를 끝까지 끌고 가는 사람
-[🧪 integration-qa](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/integration-qa.md) — admin API 라우팅 + 경계면 교차 검증으로 틈새를 잡는 사람
-
-[🧱 sim-infra-architect](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/sim-infra-architect.md) — 시뮬레이터 디렉토리 스캐폴딩 담당
-[📦 sim-model-designer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/sim-model-designer.md) — AgentState·Spot·EventLog 데이터 모델 + 감쇠 함수
-[💡 sim-engine-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/sim-engine-engineer.md) — tick 루프·행동 결정·lifecycle·정산, 시뮬레이터의 심장
-[🔌 sim-data-integrator](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/sim-data-integrator.md) — local-context-builder 산출물을 시뮬레이터에 먹이는 브리지
-[📊 sim-analyst-qa](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/sim-analyst-qa.md) — Phase 게이트키퍼, 로그 분포가 이상하면 다음 Phase 차단
-
-[🏭 pipeline-infra-architect](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/pipeline-infra-architect.md) — 파이프라인 뼈대 + DB 6테이블 + 10개 job 진입점
-[🌉 codex-bridge-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/codex-bridge-engineer.md) — LLM 호출의 유일한 문, codex exec CLI subprocess 전담
-[✏️ content-generator-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/content-generator-engineer.md) — 5종 콘텐츠를 후보 2개씩 생성하는 프롬프트 장인
-[🛡️ validator-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/validator-engineer.md) — 6-Layer 검증 + 생성→검증→재시도 루프 조립
-[🔬 pipeline-qa](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/pipeline-qa.md) — golden 샘플로 end-to-end 돌리고 §14 지표 달성 여부 판정
+[🏗️ infra-architect](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/infra-architect.md)
+[🗄️ schema-designer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/schema-designer.md)
+[🔍 collector-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/collector-engineer.md) 
+[⚙️ processor-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/processor-engineer.md)
+[🧪 integration-qa](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/integration-qa.md)
+[🧱 sim-infra-architect](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/sim-infra-architect.md)
+[📦 sim-model-designer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/sim-model-designer.md)
+[💡 sim-engine-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/sim-engine-engineer.md)
+[🔌 sim-data-integrator](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/sim-data-integrator.md)
+[📊 sim-analyst-qa](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/sim-analyst-qa.md)
+[🏭 pipeline-infra-architect](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/pipeline-infra-architect.md)
+[🌉 codex-bridge-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/codex-bridge-engineer.md)
+[✏️ content-generator-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/content-generator-engineer.md) 
+[🛡️ validator-engineer](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/validator-engineer.md) 
+[🔬 pipeline-qa](https://github.com/spot-platform/contextBuilder/blob/master/.claude/agents/pipeline-qa.md) 
 
 ## Team
 <table>
