@@ -1,5 +1,7 @@
- <img width="20" height="20" alt="logo" src="https://github.com/user-attachments/assets/2f7eda95-8db3-4886-9331-131611818987" />
+<img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/2f7eda95-8db3-4886-9331-131611818987" />
+
 # Spot - 취미 공유 강사 플랫폼
+
 ### 취미로 연결되는 사람들
 프로 강사가 아닌 **또래가 호스트**가 되어 취미를 나누는 마켓플레이스입니다.
 <br>
@@ -56,8 +58,10 @@
     <td align="center"><a href="https://github.com/username"><img src="https://github.com/username.png?size=100" width="100"/></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/username">이름</a></td>
-    <td align="center"><a href="https://github.com/username">이름</a></td>
-    <td align="center"><a href="https://github.com/username">이름</a></td>
+    <td align="center"><a href="https://github.com/username">서진규</a></td>
+    <td align="center"><a href="https://github.com/username">황호찬</a></td>
+    <td align="center"><a href="https://github.com/username">정주원</a></td>
+    <td align="center"><a href="https://github.com/username">김동현</a></td>
+    <td align="center"><a href="https://github.com/username">이성찬</a></td>
   </tr>
 </table>
