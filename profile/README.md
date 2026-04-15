@@ -1,5 +1,3 @@
-<img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/2f7eda95-8db3-4886-9331-131611818987" />
-
 # Spot - 취미 공유 강사 플랫폼
 
 ### 취미로 연결되는 사람들
